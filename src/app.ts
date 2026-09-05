@@ -15,13 +15,7 @@ const app = express();
 const allowedOrigins = [
   "http://localhost:5173",
   "http://localhost:5174",
-
-  // Add http versions only if you really still serve http in production (usually not needed)
-  // "http://autotraderonline.net",
-  "https://autotraderadmin1.netlify.app",
-  "https://autotraderonline.netlify.app",
-    "https://autotraderonline.co",
-  "https://admin.autotraderonline.co",
+"https://moonlit-ganache-39ca90.netlify.app"
 ];
 
 app.use(
