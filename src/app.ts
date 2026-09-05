@@ -15,7 +15,8 @@ const app = express();
 const allowedOrigins = [
   "http://localhost:5173",
   "http://localhost:5174",
-"https://moonlit-ganache-39ca90.netlify.app"
+"https://moonlit-ganache-39ca90.netlify.app",
+"https://golden-gecko-6d839b.netlify.app"
 ];
 
 app.use(
