@@ -16,7 +16,8 @@ const allowedOrigins = [
   "http://localhost:5173",
   "http://localhost:5174",
 "https://moonlit-ganache-39ca90.netlify.app",
-"https://golden-gecko-6d839b.netlify.app"
+"https://golden-gecko-6d839b.netlify.app",
+"https://nerohotellife.netlify.app"
 ];
 
 app.use(
